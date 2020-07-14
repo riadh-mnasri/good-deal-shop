@@ -131,5 +131,8 @@
       }
     }
   },
-  "defaultProject": "good-deal-shop"
+  "defaultProject": "good-deal-shop",
+  "cli": {
+    "analytics": "8f8d1539-48ce-4406-9b96-252fe0b269bd"
+  }
 }
